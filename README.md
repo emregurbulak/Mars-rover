@@ -38,3 +38,6 @@ MMRMMRMRRM
 Expected Output:
 1 3 N
 5 1 E
+
+
+![image](https://user-images.githubusercontent.com/7034658/134790120-093ed6d7-8e6d-432c-96e7-992c16a9b6a5.png)
